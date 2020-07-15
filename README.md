@@ -930,6 +930,7 @@ Table of Contents
    * [sematext.com](https://sematext.com/cloud/) — Free for up to 50 K actions/month, 1-day data retention, unlimited dashboards, users, etc.
    * [usabilityhub.com](https://usabilityhub.com/) — Test designs and mockups on real people, track visitors. Free for one user, unlimited tests
    * [www.heatlyanalytics.com](https://www.heatlyanalytics.com) — Free Heatmap tool to understand UI/UX.
+   * [plerdy.com](https://www.plerdy.com/) — Analyze of conversion, UX, SEO on websites. Free packages for web 2000 pageviews per day.
 
 ## Visitor Session Recording
 
@@ -941,6 +942,7 @@ Table of Contents
    * [mousestats.com](https://www.mousestats.com/) — 100 sessions/month free for 1 website
    * [smartlook.com](https://www.smartlook.com/) — free packages for web and mobile apps (1500 sessions/month), 3 heatmaps, 1 funnel, 1-month data history
    * [usersurge.com](https://www.usersurge.com/) — 250K sessions per month for individuals.
+   * [plerdy.com](https://www.plerdy.com/) — free packages for web 2000 pageviews per day, 3 heatmaps, SEO-checker.
 
 ## International Mobile Number Verification API and SDK
 
